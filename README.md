@@ -1,2 +1,2 @@
 # js-tutorials
-code repo for javascript for practice
+code repo for javascript practice
